@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Twitter.png" width="100%">
+  <img src="images/Twitter.jpg" width="100%">
 </p>
 
 
@@ -196,7 +196,7 @@ Twitter-Sentiment-Analysis/
 │   └── Twitter_Sentiment_Analysis_Insights.pdf
 │
 ├── images/
-│   └── Twitter.png
+│   └── Twitter.jpg
 │
 ├── README.md
 │
