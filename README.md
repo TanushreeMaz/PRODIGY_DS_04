@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/Twitter.jpg" width="100%">
+</p>
+
+
+
 
 # 📊 Twitter Sentiment Analysis
 
@@ -132,6 +138,135 @@ Python-based insights were transformed into an interactive Tableau dashboard to 
 * **Executive Performance Blocks:** Positive & negative KPI cards.
 * **Sentiment Distribution (Donut Chart):** Macro volume percentage breakdown.
 * **Overall Sentiment Distribution:** Baseline horizontal comparison strip.
+
+
+## Volume Leaderboards
+* **Top Mentioned Topics:** Top 10 volume chart.
+* **Top Mentioned Topics - Positive:** Highest positive engagement drivers.
+* **Top Mentioned Topics - Negative:** Brand risk absolute spikes.
+
+
+## Categorical Deep Dives
+* **Sentiment by Topic:** 100% stacked column composition.
+* **Least Discussed Topics:** Discrete color categorical treemap.
+
+
+# Dashboard Preview
+
+<img width="1904" height="944" alt="image" src="https://github.com/user-attachments/assets/b40806b2-32ac-4ddf-aff3-df86cb6fc1af" />
+
+
+# Key Metrics
+
+| Metric | Value |
+| --- | --- |
+| Total Tweets Analyzed | 74,823 |
+| Total Negative Volume | 22,624 |
+| Total Positive Volume | 20,932 |
+| Overall Negativity Rate | 30.2% |
+| Overall Positivity Rate | 27.9% |
+| Unique Topics Monitored | 32 |
+| Peak Topic Volume (*League of Legends*) | 2,414 |
+| Maximum Brand Risk Volume (*Madden NFL*) | 1,712 |
+| Maximum Positive Engagement Volume (*World of Warcraft*) | 744 |
+| Neutral Conversation Share | 24.5% |
+
+
+# # Project Structure
+
+```text
+
+Twitter-Sentiment-Analysis/
+│
+├── Data/
+│   ├── twitter_training.csv
+│   ├── twitter_validation.csv
+│   └── twitter_cleaned.csv
+│
+├── Python Analysis/
+│   ├── Twitter_Sentiment_EDA.ipynb
+│   ├── Sentiment_Distribution_EDA.png
+│   └── Sentiment_Distribution_Across_Top_Topics_EDA.png
+│
+├── Dashboard Preview/
+│   └── Dashboard_Overview.png
+│
+├── Reports/
+│   └── Twitter_Project_Insights.pdf
+│
+├── images/
+│   └── Twitter_Bird.jpg
+│
+├── README.md
+│
+└── requirements.txt
+```
+
+
+# Tools & Technologies
+
+| Category | Tools |
+| :--- | :--- |
+| **Programming** | Python |
+| **Data Analysis** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn |
+| **Business Intelligence** | Tableau |
+| **Development** | Jupyter Notebook |
+
+
+# Key Findings
+
+| Analysis Area | Insight |
+| :--- | :--- |
+| **Global Sentiment Trend** | Negative conversation represented the single largest global share at 30.17%[cite: 1]. |
+| **Baseline Platform Footprint** | Dynamic analysis covered a massive audience scale of 74,823 interactive dashboard elements. |
+| **Max Volume Leader** | *League of Legends* spearheaded total platform engagement with 2,414 total tweets[cite: 1]. |
+| **Highest Risk Entity** | *Madden NFL* drove severe platform friction, concentrating 1,712 purely negative tweets. |
+| **Top Positive Anchor** | *World of Warcraft* emerged as the brand champion with a community-leading 744 positive tweets. |
+| **Target Audience Scope** | Mentions spanned 32 distinct entities, tracking 3,757 negative vs. 3,472 positive unique users. |
+| **Data Integrity Engine** | Preprocessing pipeline successfully caught and removed 686 empty string records[cite: 1]. |
+
+
+
+# Conclusion
+
+* **Sector Domination:** Gaming drives the highest overall public participation.
+* **Data Hygiene Mandate:** Pre-cleaning empty text noise is mandatory for accurate metrics.
+* **Strategic Synergy:** Python-to-Tableau pipelines convert chaotic streams into clear strategy.
+* **Real-Time Risk:** High negative spikes flag immediate product issues requiring mitigation.
+* **Asset Replication:** High-performing brand anchors provide frameworks for struggling assets.
+* **Visual Clarity:** Unified, discrete color maps reduce insight delivery time down to 3 seconds.
+
+
+
+
+# About
+
+**Tanushree Mazumdar**
+Data Analyst | Data Science Intern @ Prodigy InfoTech
+Simplilearn & IBM Certified Data Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-mazumdar2195)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanushreemaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3C5D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanushreemaz.github.io)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
