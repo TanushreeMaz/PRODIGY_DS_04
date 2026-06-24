@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Twitter.jpg" width="100%">
+  <img src="images/Twitter.png" width="100%">
 </p>
 
 
@@ -187,15 +187,16 @@ Twitter-Sentiment-Analysis/
 │   ├── Twitter_Sentiment_EDA.ipynb
 │   ├── Sentiment_Distribution_EDA.png
 │   └── Sentiment_Distribution_Across_Top_Topics_EDA.png
+|   └── Top_Topics.png
 │
 ├── Dashboard Preview/
 │   └── Dashboard_Overview.png
 │
 ├── Reports/
-│   └── Twitter_Project_Insights.pdf
+│   └── Twitter_Sentiment_Analysis_Insights.pdf
 │
 ├── images/
-│   └── Twitter_Bird.jpg
+│   └── Twitter.png
 │
 ├── README.md
 │
